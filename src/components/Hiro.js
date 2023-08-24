@@ -19,7 +19,7 @@ export default function Hiro() {
       ) : null}
       <div
         id="home"
-        className="flex w-full h-screen flex-col md:flex-row gap-5 items-center justify-center text-white relative"
+        className="flex w-full  h-screen flex-col md:flex-row gap-5 items-center justify-center text-white relative"
       >
         <div className="md:w-3/6 md:p-4">
           <img
@@ -37,11 +37,11 @@ export default function Hiro() {
           data-aos-duration="1000"
           data-aos-offset="100"
         >
-          <div className="flex flex-col w-full mt-8">
+          <div className="flex flex-col w-full mt-8 ">
             <h1 className="text-xl text-gray-400">Hi, I'm</h1>
             <h1 className="text-2xl font-bold">Amit Jadhav</h1>
             <p class="text-xl font-bold text-gray-300">Full-Stack Developer</p>
-            <p className="text-md font-light text-gray-400 ">
+            <p className="text-md font-light text-white-400  ">
               full-Stack Developer specializing in React.js with a strong
               foundation in development principles. Completed relevant courses
               and stay updated on industry trends. Quick learner with practical
