@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+}
+.bg{
+  background-image: url(./assets/bgi.png);
+  background-size: cover;
+  
+
+}
+
